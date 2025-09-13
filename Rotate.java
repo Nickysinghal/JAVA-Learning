@@ -5,6 +5,7 @@ public class Rotate {
 
         
         int len = String.valueOf(n).length();
+        //String.valueOf() takes a int and convert into string, then .length() gives length
         if(r<0){
             r=(r%len)+len;
         }
@@ -12,30 +13,12 @@ public class Rotate {
             r%=len;
         }
         
-        int rem= n%((int)(Math.pow(10,r)));
-        n=n/((int)(Math.pow(10,r)));
-        n=n+(rem*((int)(Math.pow(10,len-r))));
+        int rem= n%((int)(Math.pow(10,r))); //12345% 10*2 =45
+        n=n/((int)(Math.pow(10,r)));    //12345 / 10*2 =123
+        n=n+(rem*((int)(Math.pow(10,len-r)))); // 45 * (10*3) = 45000 + 123 =45123
 
         System.out.println(n);
 
-        /*while(r>0){
-            int rem=n%10;
-
-            value =rem*;
-
-            r--;
-           // n/=10;
-            
-            //len--;
-           // n=value;
-            value=value+ (n/10);
-            n=value;
-            System.out.println(value);
-            len--;
-        }
-        //
-        //System.out.println(value);
-        */
 
     }
 }
