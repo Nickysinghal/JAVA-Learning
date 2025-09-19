@@ -9,8 +9,9 @@ public class PalindromeRec {
 
     static int rev(int num){
         if(num<=0) return 0;
-        int rem= num%10;
-        return rem + rev(num/10);
+        int mul = (int)Math.pow(10,String.valueOf(num).length()-1);
+
+        return (num%10)*mul+ rev(num/10);
     }
 
     public static void main(String[] args) {
