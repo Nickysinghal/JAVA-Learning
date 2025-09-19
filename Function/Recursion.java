@@ -1,5 +1,3 @@
-package Function;
-
 public class Recursion {
     
     static void printData(int n){

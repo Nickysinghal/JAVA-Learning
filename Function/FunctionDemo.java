@@ -1,4 +1,4 @@
-package Function;
+
 
 public class FunctionDemo {
     //first type 

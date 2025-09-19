@@ -1,0 +1,259 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PalindromeRec",
+            "request": "launch",
+            "mainClass": "PalindromeRec",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "CountDigit",
+            "request": "launch",
+            "mainClass": "CountDigit",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "FiboRec",
+            "request": "launch",
+            "mainClass": "FiboRec",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "NumAscending",
+            "request": "launch",
+            "mainClass": "NumAscending",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "NumDecending",
+            "request": "launch",
+            "mainClass": "NumDecending",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "PowerRec",
+            "request": "launch",
+            "mainClass": "PowerRec",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FactRecursion",
+            "request": "launch",
+            "mainClass": "FactRecursion",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "FullPyramid",
+            "request": "launch",
+            "mainClass": "FullPyramid",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "FunctionDemo",
+            "request": "launch",
+            "mainClass": "FunctionDemo",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "HollowSqRec",
+            "request": "launch",
+            "mainClass": "HollowSqRec",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "InvertedFullPyramid",
+            "request": "launch",
+            "mainClass": "InvertedFullPyramid",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "InvertedLeftHalf",
+            "request": "launch",
+            "mainClass": "InvertedLeftHalf",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "InvertedRightHalf",
+            "request": "launch",
+            "mainClass": "InvertedRightHalf",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "LeftTriangle",
+            "request": "launch",
+            "mainClass": "LeftTriangle",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumSum",
+            "request": "launch",
+            "mainClass": "NaturalNumSum",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "Num",
+            "request": "launch",
+            "mainClass": "Num",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNum",
+            "request": "launch",
+            "mainClass": "ReverseNum",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStr",
+            "request": "launch",
+            "mainClass": "ReverseStr",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangle",
+            "request": "launch",
+            "mainClass": "RightTriangle",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "SolidSquare",
+            "request": "launch",
+            "mainClass": "SolidSquare",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern10",
+            "request": "launch",
+            "mainClass": "pattern10",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern11",
+            "request": "launch",
+            "mainClass": "pattern11",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern12",
+            "request": "launch",
+            "mainClass": "pattern12",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "pattern8",
+            "projectName": "JAVA by VK_96942252"
+        },
+        {
+            "type": "java",
+            "name": "pattern9",
+            "request": "launch",
+            "mainClass": "pattern9",
+            "projectName": "JAVA by VK_96942252"
+        }
+    ]
+}
